@@ -29,7 +29,7 @@
 5. Desenvolva as funcionalidades conforme os requisitos do projeto.
 
 
-![Descrição da imagem](C:\Users\Aluno\Pictures\IMG/foto.png)
+![Descrição da imagem](foto.png)
 
 6. Apague os arquivos do Hibernate 4.X que foram trazidos pela IDE.
 7. Importe os JARs do MySQL Connector ([download aqui](https://dev.mysql.com/downloads/connector/j/)), Hibernate e JPA ([download aqui](https://hibernate.org/orm/releases/5.4/)).
