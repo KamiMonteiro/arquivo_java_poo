@@ -39,4 +39,4 @@
 
 O projeto irá aparecer assim:
 
-![Estrutura do Projeto](C:\Users\Aluno\Pictures\IMG/FOTO2.png)
+![Estrutura do Projeto](FOTO2.png)
